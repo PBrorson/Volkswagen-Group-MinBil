@@ -19,7 +19,7 @@ function App() {
         kring laddning och laddbox.
       </h6>
 
-      <a href="www.google.se" className="click">
+      <a href="https://minvolkswagen.se/login#privat" className="click">
         Klicka här
       </a>
     </div>
