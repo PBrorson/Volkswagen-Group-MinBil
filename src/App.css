@@ -1,39 +1,34 @@
-App{
-    background-color: #fff;
-    margin:20px;
-    flex-direction: column;
-    border: 1px solid #b1b1b1;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-    padding: 30px 20px;
-    text-align: left;
-    box-sizing: content-box;
-    
-    
-    }
-    .head{
-        color: #001e50;
-          font-size: 34px;
-          font-weight: normal;
-          margin-bottom: 20px;
-          line-height: 40px;
-      }    
+App {
+  background-color: #fff;
+  margin: 20px;
+  flex-direction: column;
+  border: 1px solid #b1b1b1;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  padding: 30px 20px;
+  text-align: left;
+  box-sizing: content-box;
+}
+.head {
+  color: #001e50;
+  font-size: 34px;
+  font-weight: normal;
+  margin-bottom: 20px;
+  line-height: 40px;
+}
 
-    .click{
-        font-weight:bolder;
-        color: #001e50;
-      
-      
-    }
-    .start{
-      color: #001e50;
-      font-size: 16px; 
-      line-height: 20px;
-      font-weight: 500;
-      display: block;
-      margin-inline-start: 4px;
-      margin-inline-end: 4px;
-      margin-bottom: 30px;
-    }
-    
-   
-    
+.click {
+  font-weight: bolder;
+  color: #001e50;
+}
+.start {
+  color: #001e50;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 500;
+  display: block;
+  margin-inline-start: 4px;
+  margin-inline-end: 4px;
+  margin-bottom: 30px;
+}
