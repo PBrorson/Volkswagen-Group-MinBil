@@ -1,24 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <p className ="start">
+        Ett erbjudande från Volkswagen AG <a href = "www.volkswagen.se" 
+      className='click'><br></br>Utgivare & juridisk information</a></p>
+      
+      <h3 className="head">Hjälp för appar och <strong>digitala tjänster</strong></h3>
+      <h6 className ="start">Vi svarar på frågor om mobila tjänster, uppkoppling och frågor<br></br> kring laddning och laddbox.</h6>
+      
+      
+      <a href="www.google.se" className='click'>Klicka här</a>
     </div>
   );
 }
